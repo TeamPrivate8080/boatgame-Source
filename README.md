@@ -22,6 +22,14 @@ Featues: <br>
 
 <br>
 
+Adding your own functions or plugins: <br>
+Add your function in https://github.com/TeamPrivate8080/boatgame-Source/blob/main/server/Emulator/EmulatorExporter.js <br>
+To access most things such as players, ships see other functions in https://github.com/TeamPrivate8080/boatgame-Source/tree/main/server/Emulator/EmulatorActions <br>
+These are stored in ServerStoring vars file <br>
+Most core functions are the tick engine & emulator actions
+
+<br><br>
+
 Installation:  <br>
 Requires npm (nodejs) on a pc/server <br>
 Install packages: npm i <br>
