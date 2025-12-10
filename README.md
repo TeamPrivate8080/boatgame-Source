@@ -21,8 +21,10 @@ Featues: <br>
 <br>
 
 Installation:  <br>
+Requires npm (nodejs) on a pc/server <br>
 Install packages: npm i <br>
 Run server: node . <br>
+visit http://localhost:80
 
 Small note:  <br>
 It may take some time until you can join the game since it required an database just ignore for now.
