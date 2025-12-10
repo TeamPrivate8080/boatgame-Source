@@ -6,15 +6,17 @@ An uncontinued web project in VanillaJS simply code or edit stuff to get it in y
 
 <br>
 Featues: <br>
-WebSocket / SocketIO Networking <br>
-Sharks <br>
-All server sided (player, ships, ..) no cheating is possible<br>
-Client obfuscation support <br>
-Fishing <br>
-Cannon Shooting <br>
-Pump Generators <br>
-Shop Market <br>
-& more
+- WebSocket / SocketIO Networking <br>
+- Sharks <br>
+- All server sided (player, ships, ..) no cheating is possible<br>
+- Client obfuscation support <br>
+- Fishing <br>
+- Cannon Shooting <br>
+- Pump Generators <br>
+- Shop Market <br>
+- & more <br>
+
+<br>
 
 Installation:  <br>
 Install packages: npm i <br>
