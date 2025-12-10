@@ -1,5 +1,7 @@
 # boatgame
-Boatgame / Shipz Open Source
+Boatgame / Shipz Open Source <br>
+
+Run your own server sea survival game on pc or a server
 
 <br>
 An uncontinued web project in VanillaJS simply code or edit stuff to get it in your own style
